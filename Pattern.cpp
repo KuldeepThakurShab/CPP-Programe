@@ -7,7 +7,7 @@ int main(){
             if(count==1 || count==r) cout<<r<<"\t";
             else cout<<0<<"\t";
         }
-        cout<<endl;
+        cout<<'\n';
     }
     return 0;
 
